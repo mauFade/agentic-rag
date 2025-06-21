@@ -1,0 +1,12 @@
+{
+  "name": "agentic-rag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mauFade/agentic-rag",
+  "author": "Mauricio Cardoso <mauricio.cds00@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "langbase": "^1.1.63"
+  }
+}
